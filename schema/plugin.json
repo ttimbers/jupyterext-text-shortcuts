@@ -7,10 +7,12 @@
             "command": "text-shortcuts:insert-text",
             "args": {
                 "kernel": "ir",
-                "text": "%>%",
+                "text": "|>",
                 "autoPad": true
             },
-            "keys": ["Accel Shift M"],
+            "keys": [
+                "Accel Shift M"
+            ],
             "selector": "body"
         },
         {
@@ -20,7 +22,9 @@
                 "text": "<-",
                 "autoPad": true
             },
-            "keys": ["Alt -"],
+            "keys": [
+                "Alt -"
+            ],
             "selector": "body"
         },
         {
